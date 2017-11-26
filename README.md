@@ -1,2 +1,1 @@
-# contact.html
-liên hệ
+git reset HEAD conf/app.xml
